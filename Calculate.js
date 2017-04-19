@@ -1,6 +1,8 @@
-
-
-var x = new Date();
+   //All Copy Right Reserved 2017 © to Game Download.lnc
+       /*    this script as suported from gamedownload.tk and FB profile https://fb.me/Yacine.Dj1 
+       */
+ 
+var x = new Date(); 
 var Ali = new Object();
 var Years = x.getFullYear();
 var no0;
